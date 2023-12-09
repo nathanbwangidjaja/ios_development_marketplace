@@ -28,5 +28,3 @@ For the purposes of this public GitHub repository, all API keys and sensitive cr
 - Hanvit Choi
 - Nira Nair
 - Nathan Wangidjaja
-
-Thank you for your interest in the Columbia E-commerce Marketplace. We are excited to see how our platform will enhance the Columbia student community!
